@@ -326,6 +326,31 @@ section {
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
   width: 70%;
 }
+.about-stats .progress-bars .progress-bar .progress-con .progress .php {
+  width: 100%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .sql {
+  width: 90%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .vue {
+  width: 90%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .java {
+  width: 90%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .rn {
+  width: 70%;
+}
+
+.about-stats .progress-bars .progress-bar .progress-con .progress .android {
+  width: 85%;
+}
+
+
 
 .stat-title {
   text-transform: uppercase;
